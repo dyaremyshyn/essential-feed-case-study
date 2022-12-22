@@ -14,6 +14,7 @@
 		CE4AE441295489ED00466CA6 /* FeedItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4AE43F295489ED00466CA6 /* FeedItem.swift */; };
 		CE4AE44329548A3100466CA6 /* FeedLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4AE44229548A3100466CA6 /* FeedLoader.swift */; };
 		CE4AE44429548A3100466CA6 /* FeedLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4AE44229548A3100466CA6 /* FeedLoader.swift */; };
+		CE4AE44729548AC000466CA6 /* RemoteFeedLoaderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4AE44629548AC000466CA6 /* RemoteFeedLoaderTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,6 +34,7 @@
 		CE4AE4342954872E00466CA6 /* EssentialFeedTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EssentialFeedTests.swift; sourceTree = "<group>"; };
 		CE4AE43F295489ED00466CA6 /* FeedItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedItem.swift; sourceTree = "<group>"; };
 		CE4AE44229548A3100466CA6 /* FeedLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedLoader.swift; sourceTree = "<group>"; };
+		CE4AE44629548AC000466CA6 /* RemoteFeedLoaderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteFeedLoaderTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 			isa = PBXGroup;
 			children = (
 				CE4AE4342954872E00466CA6 /* EssentialFeedTests.swift */,
+				CE4AE44629548AC000466CA6 /* RemoteFeedLoaderTests.swift */,
 			);
 			path = EssentialFeedTests;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE4AE44729548AC000466CA6 /* RemoteFeedLoaderTests.swift in Sources */,
 				CE4AE44429548A3100466CA6 /* FeedLoader.swift in Sources */,
 				CE4AE441295489ED00466CA6 /* FeedItem.swift in Sources */,
 				CE4AE4352954872E00466CA6 /* EssentialFeedTests.swift in Sources */,
