@@ -21,6 +21,7 @@
 		CE4AE44E2959DA5600466CA6 /* HTTPClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4AE44C2959DA5600466CA6 /* HTTPClient.swift */; };
 		CE4AE4502959DAB100466CA6 /* FeedItemsMapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4AE44F2959DAB100466CA6 /* FeedItemsMapper.swift */; };
 		CE4AE4512959DAB100466CA6 /* FeedItemsMapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4AE44F2959DAB100466CA6 /* FeedItemsMapper.swift */; };
+		CE4AE454295DE0B800466CA6 /* URLSessionHTTPClientTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4AE453295DE0B800466CA6 /* URLSessionHTTPClientTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		CE4AE44929548EAC00466CA6 /* RemoteFeedLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteFeedLoader.swift; sourceTree = "<group>"; };
 		CE4AE44C2959DA5600466CA6 /* HTTPClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPClient.swift; sourceTree = "<group>"; };
 		CE4AE44F2959DAB100466CA6 /* FeedItemsMapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedItemsMapper.swift; sourceTree = "<group>"; };
+		CE4AE453295DE0B800466CA6 /* URLSessionHTTPClientTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLSessionHTTPClientTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +127,7 @@
 			isa = PBXGroup;
 			children = (
 				CE4AE44629548AC000466CA6 /* RemoteFeedLoaderTests.swift */,
+				CE4AE453295DE0B800466CA6 /* URLSessionHTTPClientTests.swift */,
 			);
 			path = "Feed API";
 			sourceTree = "<group>";
@@ -254,6 +257,7 @@
 				CE4AE44729548AC000466CA6 /* RemoteFeedLoaderTests.swift in Sources */,
 				CE4AE44429548A3100466CA6 /* FeedLoader.swift in Sources */,
 				CE4AE44E2959DA5600466CA6 /* HTTPClient.swift in Sources */,
+				CE4AE454295DE0B800466CA6 /* URLSessionHTTPClientTests.swift in Sources */,
 				CE4AE4512959DAB100466CA6 /* FeedItemsMapper.swift in Sources */,
 				CE4AE441295489ED00466CA6 /* FeedItem.swift in Sources */,
 				CE4AE44B29548EAC00466CA6 /* RemoteFeedLoader.swift in Sources */,
